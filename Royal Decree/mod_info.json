@@ -1,0 +1,9 @@
+{
+    "id": "thog_royal_decree",
+    "name": "Royal Decree",
+    "author": "Thogapotomus",
+    "utility": "true",
+    "version": "1.0",
+    "description": "Adds new ship",
+    "gameVersion": "0.97a-RC11"
+}
